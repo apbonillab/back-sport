@@ -1,0 +1,44 @@
+[{
+    "id": 1,
+    "name": "James Rodriguez",
+    "category":"Futbol"
+      }, {
+    "id": 2,
+    "name": "Leonel Messi",
+    "category":"Futbol"
+  }, 
+  {
+    "id": 3,
+    "name": "George Mikan",
+    "category":"Basketball"
+  }, {
+    "id": 4,
+    "name": "Michael Phelps",
+    "category":"Natación"
+  }, 
+  {
+    "id": 5,
+    "name": "Sasha Cohen",
+    "category":"Patinaje"
+  }, {
+    "id": 6,
+    "name": "Derek Jeter",
+    "category":"Beisbol"
+  }, {
+    "id": 7,
+    "name": "Nadia Comaneci",
+    "category":"Gimnasia"
+  }, {
+    "id": 8,
+    "name": "Usain Bolt",
+    "category":"Atletismo"
+  }, {
+    "id": 9,
+    "name": "Nairo Quintana",
+    "category":"Ciclismo"
+  }, {
+    "id": 10,
+    "name": "Rigoberto Uran",
+    "category":"Ciclismo"
+  }]
+  
